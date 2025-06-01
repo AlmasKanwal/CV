@@ -16,9 +16,9 @@ body {
     font-family: "Roboto", sans-serif;
     background-color: #f4f4f4;
 
-  display: flex;
-  justify-content:center;
-  align-items: center;
+    display: flex;
+    justify-content:center;
+    align-items: center;
   }
   
   .resume-container {
