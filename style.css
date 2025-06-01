@@ -13,7 +13,7 @@
 body {
     margin: 0;
     padding: 20px;
-    font-family: Arial, sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #f4f4f4;
   }
   
@@ -50,6 +50,7 @@ body {
     border: 3px solid #ffa500;
     object-fit: cover;
     margin-bottom: 20px;
+    background-color: #f4f4f4;
   }
   
   .right-section {
